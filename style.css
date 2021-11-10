@@ -1,0 +1,17 @@
+/* Example styling of a h1 element */
+h1 {
+  color: #ff5e00;
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+mark{
+  background: yellow
+}
+header { 
+  position: top;
+  background-color:beige;
+  width: 100%
+
+}
